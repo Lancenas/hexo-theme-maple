@@ -5,7 +5,7 @@ nav:
   标签: /tags
 
 # favicon
-favicon: images/favicon.png
+favicon: images/favicon.ico
 
 # logo
 logo: /images/logo.svg
@@ -13,10 +13,11 @@ logo: /images/logo.svg
 # links
 links:
   Github: https://github.com/Lancenas
-  抖音：https://douyin.com
-  小红书： https://www.xiaohongshu.com
+  抖音: https://douyin.com
+  小红书: https://www.xiaohongshu.com
   知乎: https://www.zhihu.com/
   Weibo: https://weibo.com
+
 
 # analytics
 google_analytics: UA-149148285-1
