@@ -1,24 +1,25 @@
 # Header
 nav:
-  Posts: /archives
-  # Categories: /category
-  # Tags: /tag
+  博客: /archives
+  分类: /categories
+  标签: /tags
 
 # favicon
-favicon: /favicon.png
+favicon: images/favicon.png
 
 # logo
 logo: /images/logo.svg
 
 # links
 links:
-  Github: https://github.com/xbmlz
-  # ZhiHu:
-  # Twitter:
-  # Weibo:
+  Github: https://github.com/Lancenas
+  抖音：https://douyin.com
+  小红书： https://www.xiaohongshu.com
+  知乎: https://www.zhihu.com/
+  Weibo: https://weibo.com
 
 # analytics
-google_analytics:
+google_analytics: UA-149148285-1
 baidu_analytics:
 
 # mathjax
