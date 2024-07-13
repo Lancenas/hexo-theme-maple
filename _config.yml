@@ -8,7 +8,7 @@ nav:
 favicon: images/favicon-16.ico
 
 # logo
-logo: images/sites-logo.svg
+logo: /images/sites-logo.svg
 
 # links
 links:
