@@ -1,23 +1,21 @@
 # Header
 nav:
-  博客: /archives
-  分类: /categories
-  标签: /tags
+  博客: /archives/
+  分类: /category/
+  标签: /tag/
 
 # favicon
-favicon: images/favicon.ico
+favicon: images/favicon-16.ico
 
 # logo
-logo: /images/logo.svg
+logo: images/sites-logo.svg
 
 # links
 links:
   Github: https://github.com/Lancenas
-  抖音: https://douyin.com
-  小红书: https://www.xiaohongshu.com
-  知乎: https://www.zhihu.com/
-  Weibo: https://weibo.com
-
+  # ZhiHu:
+  # Twitter:
+  # Weibo:
 
 # analytics
 google_analytics: UA-149148285-1
@@ -43,12 +41,12 @@ mermaid:
 
 # giscus
 giscus:
-  enable:
-  repo:
-  repo_id:
-  category:
-  category_id:
-  mapping:
+  enable: true
+  repo: Lancenas/Sites-Giscus
+  repo_id: R_kgDOMVUxEQ
+  category: Announcements
+  category_id: DIC_kwDOMVUxEc4CgvWb
+  mapping: pathname
 
 # maple
 maple:
@@ -57,4 +55,3 @@ maple:
   count: 10
   # 0-1
   speed: 0.5
-
